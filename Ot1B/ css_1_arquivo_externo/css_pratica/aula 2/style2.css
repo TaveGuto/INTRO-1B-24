@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-color: azure;
+    font-family: arial, verdana;
+    color: #333;
+    padding-top: 6rem;
+}
+
+header {
+    background-color: whitesmoke;
+    width: 100%;
+    border-bottom: 10px solid blue;
+    text-align: center;
+    padding: 1rem;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+}
+
+header img {
+    width: 10rem;
+}
+
+main {
+    width: 900px;
+    margin: auto;
+}
+
+main img{
+    width: 100%;
+}
+
+h1 {
+    color: black
+}
+
+p {
+    text-align: justify;
+    line-height: 2rem;
+}

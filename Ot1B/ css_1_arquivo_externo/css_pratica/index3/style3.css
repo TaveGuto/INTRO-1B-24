@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: azure;
+    font-family: arial, verdana;
+    color: #333;
+    padding-top: 15rem;
+}
+
+header {
+    background-color: #850f0a;
+    width: 100%;
+    border-bottom: 10px solid #a2a6ae;
+    text-align: center;
+    padding: 1rem;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+}
+
+header img {
+    width: 17rem;
+}
+
+main {
+    width: 900px;
+    margin: auto;
+    
+}
+
+p {
+    text-align: justify;
+    line-height: 2rem;
+
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display:inline-block
+    
+}
